@@ -53,3 +53,29 @@ Universal:AddButton({
 Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
+
+
+Universal:AddButton({
+	Name = "CarFly",
+	Callback = function()loadstring(game:HttpGet("https://pastebin.com/raw/xRr0MSDy"))()
+      		print("sex")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+
+Universal:AddButton({
+	Name = "SystemBroken(Anims)",
+	Callback = function()loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
+      		print("sex")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
